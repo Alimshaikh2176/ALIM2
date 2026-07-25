@@ -1,8 +1,0 @@
-postgres  D1
-8MGNcm162auEHYmBgtvt
-database-1.cj04qegyir5i.ap-south-1.rds.amazonaws.com
-
-
-admin D2
-9NDDxcgqdUxnnjquzBrY
-mysqldb.cj04qegyir5i.ap-south-1.rds.amazonaws.com
